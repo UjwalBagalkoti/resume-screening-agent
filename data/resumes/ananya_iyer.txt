@@ -1,0 +1,13 @@
+Ananya Iyer
+ananya.iyer@email.com
+
+Summary
+Data scientist with 4 years experience in predictive modeling and reporting.
+
+Skills: Python, Machine Learning, SQL, Power BI, Pandas, Numpy, Communication
+
+Experience
+Data Scientist, Bright Analytics, 2020-2024 (4 years)
+
+Education
+Bachelor's in Statistics

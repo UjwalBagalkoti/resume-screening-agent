@@ -1,0 +1,13 @@
+Rohan Das
+rohan.das@email.com
+
+Summary
+Frontend developer with 4 years experience building web applications.
+
+Skills: JavaScript, React, Node.js, Git
+
+Experience
+Frontend Developer, WebApps Co, 2020-2024 (4 years)
+
+Education
+Bachelor's in Computer Science

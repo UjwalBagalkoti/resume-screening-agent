@@ -1,0 +1,28 @@
+Job Title: Data Scientist (Mid-Senior Level)
+Company: Rooman Analytics Pvt. Ltd.
+Location: Bengaluru, India (Hybrid)
+
+About the Role
+We are looking for a Data Scientist with 4+ years of experience to join our
+analytics team. You will build machine learning models, analyze large
+datasets, and communicate insights to stakeholders across the business.
+
+Required Skills
+- Strong Python programming skills
+- Experience with machine learning (scikit-learn) and statistics
+- Solid SQL skills for querying large datasets
+- Experience with data visualization (Tableau or Power BI)
+- Excellent communication skills for presenting findings to non-technical stakeholders
+
+Preferred Skills
+- Experience with deep learning frameworks (PyTorch/TensorFlow)
+- Familiarity with cloud platforms (AWS/GCP/Azure)
+- Experience with ETL/data pipelines (Airflow)
+- Exposure to NLP
+
+Education
+Bachelor's degree in Computer Science, Statistics, or a related field.
+Master's degree is a plus.
+
+Experience
+4+ years of experience in a data science or analytics role.
