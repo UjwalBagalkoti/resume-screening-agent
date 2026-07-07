@@ -1,0 +1,300 @@
+[
+  {
+    "file": "priya_sharma.pdf",
+    "name": "Priya Sharma",
+    "score": 72.8,
+    "matched_skills": [
+      "cloud",
+      "communication",
+      "data visualization",
+      "machine learning",
+      "python",
+      "sql",
+      "statistics"
+    ],
+    "missing_required_skills": [],
+    "years_experience": 5.0,
+    "education": "Bachelor's",
+    "component_scores": {
+      "skill_match": 88.0,
+      "tfidf_similarity": 37.8,
+      "experience_match": 100.0
+    },
+    "rank": 1,
+    "reasoning": "Ranked #1 with a score of 72.8/100. Candidate matches 7 required/preferred skill(s) (cloud, communication, data visualization, machine learning, python...), has 5.0 years of experience, education: Bachelor's. (skill match 88.0%, text similarity 37.8%, experience match 100.0%)",
+    "reasoning_mode": "template"
+  },
+  {
+    "file": "ananya_iyer.txt",
+    "name": "Ananya Iyer",
+    "score": 71.3,
+    "matched_skills": [
+      "communication",
+      "data visualization",
+      "machine learning",
+      "python",
+      "sql",
+      "statistics"
+    ],
+    "missing_required_skills": [],
+    "years_experience": 4.0,
+    "education": "Bachelor's",
+    "component_scores": {
+      "skill_match": 84.0,
+      "tfidf_similarity": 38.6,
+      "experience_match": 100.0
+    },
+    "rank": 2,
+    "reasoning": "Ranked #2 with a score of 71.3/100. Candidate matches 6 required/preferred skill(s) (communication, data visualization, machine learning, python, sql...), has 4.0 years of experience, education: Bachelor's. (skill match 84.0%, text similarity 38.6%, experience match 100.0%)",
+    "reasoning_mode": "template"
+  },
+  {
+    "file": "rahul_verma.docx",
+    "name": "Rahul Verma",
+    "score": 57.1,
+    "matched_skills": [
+      "cloud",
+      "deep learning",
+      "machine learning",
+      "nlp",
+      "python",
+      "sql"
+    ],
+    "missing_required_skills": [
+      "communication",
+      "data visualization"
+    ],
+    "years_experience": 6.0,
+    "education": "Master's",
+    "component_scores": {
+      "skill_match": 60.0,
+      "tfidf_similarity": 29.0,
+      "experience_match": 100.0
+    },
+    "rank": 3,
+    "reasoning": "Ranked #3 with a score of 57.1/100. Candidate matches 6 required/preferred skill(s) (cloud, deep learning, machine learning, nlp, python...), is missing 2 required skill(s) (communication, data visualization), has 6.0 years of experience, education: Master's. (skill match 60.0%, text similarity 29.0%, experience match 100.0%)",
+    "reasoning_mode": "template"
+  },
+  {
+    "file": "karthik_reddy.pdf",
+    "name": "Karthik Reddy",
+    "score": 55.9,
+    "matched_skills": [
+      "data visualization",
+      "etl",
+      "python",
+      "sql",
+      "statistics"
+    ],
+    "missing_required_skills": [
+      "communication",
+      "machine learning"
+    ],
+    "years_experience": 4.0,
+    "education": "Bachelor's",
+    "component_scores": {
+      "skill_match": 56.0,
+      "tfidf_similarity": 30.6,
+      "experience_match": 100.0
+    },
+    "rank": 4,
+    "reasoning": "Ranked #4 with a score of 55.9/100. Candidate matches 5 required/preferred skill(s) (data visualization, etl, python, sql, statistics), is missing 2 required skill(s) (communication, machine learning), has 4.0 years of experience, education: Bachelor's. (skill match 56.0%, text similarity 30.6%, experience match 100.0%)",
+    "reasoning_mode": "template"
+  },
+  {
+    "file": "meera_pillai.pdf",
+    "name": "Meera Pillai",
+    "score": 55.3,
+    "matched_skills": [
+      "cloud",
+      "deep learning",
+      "machine learning",
+      "nlp",
+      "python",
+      "statistics"
+    ],
+    "missing_required_skills": [
+      "communication",
+      "data visualization",
+      "sql"
+    ],
+    "years_experience": 7.0,
+    "education": "PhD",
+    "component_scores": {
+      "skill_match": 48.0,
+      "tfidf_similarity": 39.3,
+      "experience_match": 100.0
+    },
+    "rank": 5,
+    "reasoning": "Ranked #5 with a score of 55.3/100. Candidate matches 6 required/preferred skill(s) (cloud, deep learning, machine learning, nlp, python...), is missing 3 required skill(s) (communication, data visualization, sql), has 7.0 years of experience, education: PhD. (skill match 48.0%, text similarity 39.3%, experience match 100.0%)",
+    "reasoning_mode": "template"
+  },
+  {
+    "file": "suresh_kumar.txt",
+    "name": "Suresh Kumar",
+    "score": 48.7,
+    "matched_skills": [
+      "communication",
+      "data visualization",
+      "sql"
+    ],
+    "missing_required_skills": [
+      "machine learning",
+      "python"
+    ],
+    "years_experience": 5.0,
+    "education": "Bachelor's",
+    "component_scores": {
+      "skill_match": 48.0,
+      "tfidf_similarity": 20.4,
+      "experience_match": 100.0
+    },
+    "rank": 6,
+    "reasoning": "Ranked #6 with a score of 48.7/100. Candidate matches 3 required/preferred skill(s) (communication, data visualization, sql), is missing 2 required skill(s) (machine learning, python), has 5.0 years of experience, education: Bachelor's. (skill match 48.0%, text similarity 20.4%, experience match 100.0%)",
+    "reasoning_mode": "template"
+  },
+  {
+    "file": "lakshmi_rao.docx",
+    "name": "Lakshmi Rao",
+    "score": 40.1,
+    "matched_skills": [
+      "communication",
+      "python",
+      "statistics"
+    ],
+    "missing_required_skills": [
+      "data visualization",
+      "machine learning",
+      "sql"
+    ],
+    "years_experience": 3.0,
+    "education": "Master's",
+    "component_scores": {
+      "skill_match": 36.0,
+      "tfidf_similarity": 25.4,
+      "experience_match": 75.0
+    },
+    "rank": 7,
+    "reasoning": "Ranked #7 with a score of 40.1/100. Candidate matches 3 required/preferred skill(s) (communication, python, statistics), is missing 3 required skill(s) (data visualization, machine learning, sql), has 3.0 years of experience, education: Master's. (skill match 36.0%, text similarity 25.4%, experience match 75.0%)",
+    "reasoning_mode": "template"
+  },
+  {
+    "file": "vikram_singh.docx",
+    "name": "Vikram Singh",
+    "score": 37.5,
+    "matched_skills": [
+      "communication",
+      "sql"
+    ],
+    "missing_required_skills": [
+      "data visualization",
+      "machine learning",
+      "python"
+    ],
+    "years_experience": 3.0,
+    "education": "Bachelor's",
+    "component_scores": {
+      "skill_match": 32.0,
+      "tfidf_similarity": 23.2,
+      "experience_match": 75.0
+    },
+    "rank": 8,
+    "reasoning": "Ranked #8 with a score of 37.5/100. Candidate matches 2 required/preferred skill(s) (communication, sql), is missing 3 required skill(s) (data visualization, machine learning, python), has 3.0 years of experience, education: Bachelor's. (skill match 32.0%, text similarity 23.2%, experience match 75.0%)",
+    "reasoning_mode": "template"
+  },
+  {
+    "file": "sneha_nair.txt",
+    "name": "Sneha Nair",
+    "score": 30.4,
+    "matched_skills": [
+      "python",
+      "sql"
+    ],
+    "missing_required_skills": [
+      "communication",
+      "data visualization",
+      "machine learning"
+    ],
+    "years_experience": 2.0,
+    "education": "Bachelor's",
+    "component_scores": {
+      "skill_match": 32.0,
+      "tfidf_similarity": 17.1,
+      "experience_match": 50.0
+    },
+    "rank": 9,
+    "reasoning": "Ranked #9 with a score of 30.4/100. Candidate matches 2 required/preferred skill(s) (python, sql), is missing 3 required skill(s) (communication, data visualization, machine learning), has 2.0 years of experience, education: Bachelor's. (skill match 32.0%, text similarity 17.1%, experience match 50.0%)",
+    "reasoning_mode": "template"
+  },
+  {
+    "file": "rohan_das.txt",
+    "name": "Rohan Das",
+    "score": 26.1,
+    "matched_skills": [],
+    "missing_required_skills": [
+      "communication",
+      "data visualization",
+      "machine learning",
+      "python",
+      "sql"
+    ],
+    "years_experience": 4.0,
+    "education": "Bachelor's",
+    "component_scores": {
+      "skill_match": 0.0,
+      "tfidf_similarity": 17.6,
+      "experience_match": 100.0
+    },
+    "rank": 10,
+    "reasoning": "Ranked #10 with a score of 26.1/100. Candidate matches none of the JD's detected skills, is missing 5 required skill(s) (communication, data visualization, machine learning, python...), has 4.0 years of experience, education: Bachelor's. (skill match 0.0%, text similarity 17.6%, experience match 100.0%)",
+    "reasoning_mode": "template"
+  },
+  {
+    "file": "divya_menon.txt",
+    "name": "Divya Menon",
+    "score": 17.3,
+    "matched_skills": [
+      "communication"
+    ],
+    "missing_required_skills": [
+      "data visualization",
+      "machine learning",
+      "python",
+      "sql"
+    ],
+    "years_experience": 1.0,
+    "education": "Bachelor's",
+    "component_scores": {
+      "skill_match": 16.0,
+      "tfidf_similarity": 14.5,
+      "experience_match": 25.0
+    },
+    "rank": 11,
+    "reasoning": "Ranked #11 with a score of 17.3/100. Candidate matches 1 required/preferred skill(s) (communication), is missing 4 required skill(s) (data visualization, machine learning, python, sql), has 1.0 years of experience, education: Bachelor's. (skill match 16.0%, text similarity 14.5%, experience match 25.0%)",
+    "reasoning_mode": "template"
+  },
+  {
+    "file": "arjun_kapoor.txt",
+    "name": "Arjun Kapoor",
+    "score": 15.5,
+    "matched_skills": [
+      "python"
+    ],
+    "missing_required_skills": [
+      "communication",
+      "data visualization",
+      "machine learning",
+      "sql"
+    ],
+    "years_experience": 0.0,
+    "education": "Bachelor's",
+    "component_scores": {
+      "skill_match": 16.0,
+      "tfidf_similarity": 23.7,
+      "experience_match": 0.0
+    },
+    "rank": 12,
+    "reasoning": "Ranked #12 with a score of 15.5/100. Candidate matches 1 required/preferred skill(s) (python), is missing 4 required skill(s) (communication, data visualization, machine learning, sql), has 0.0 years of experience, education: Bachelor's. (skill match 16.0%, text similarity 23.7%, experience match 0.0%)",
+    "reasoning_mode": "template"
+  }
+]
