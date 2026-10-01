@@ -35,7 +35,7 @@ Job Description + Resumes (PDF/DOCX/TXT)
 
 ```bash
 # 1. Clone and enter the project
-git clone <your-repo-url>
+git clone https://github.com/UjwalBagalkoti/resume-screening-agent.git
 cd resume-screening-agent
 
 # 2. Create a virtual environment (recommended)
