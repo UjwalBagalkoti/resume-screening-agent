@@ -1,5 +1,9 @@
 # Resume Screening Agent
 
+## Demo
+
+No working public demo is currently available. The latest recorded Vercel production deployment is in an error state, so I have not added a potentially broken link.
+
 **My agent takes a job description + a folder of resumes (PDF/DOCX/TXT) and
 produces a ranked, scored shortlist of candidates with clear reasoning for
 each rank.**
